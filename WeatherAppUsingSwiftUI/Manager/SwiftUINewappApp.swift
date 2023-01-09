@@ -1,6 +1,6 @@
 //
-//  SwiftUINewappApp.swift
-//  SwiftUINewapp
+//  WeatherAppUsingSwiftUI.swift
+//  WeatherAppUsingSwiftUI
 //
 //  Created by Sahana  Rao on 06/01/23.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct SwiftUINewappApp: App {
+struct WeatherAppUsingSwiftUI: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
